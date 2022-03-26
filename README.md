@@ -16,3 +16,7 @@
 #### The following graph shows the total fare by city type over the span of a couple of months. 
 ![fare over time](https://github.com/allisonorourke-ufGfGy/PyBer_Analysis/blob/main/Images/Challenge%20Graph.png)
 ## Analysis
+#### There are a couple of reccomendations that I would make to the CEO in order to address the disparities that we are able to see. 
+1. When looking at the total fares by city type over a period of time we are able to see that urban and suburban cities tend to have lower fares in the beginning of the year. It may be beneficial to have some extra marketing or deals during that time of the year to boost sales. 
+2. The Urban citite smake up 68.4% of the total rides but they only make up 62.7% of the total fares. It might be beneficial to have higher rates in the urban cities because there is a greater want for rides but they do not statisitcally charge as much.
+3. 80.9% of drivers are in the urban cities while thet only make up 68.4% of the actual rides. It might be beneficial to move some of the drivers into the other city types which might help to decrease the competition within urban drivers which would increase the fares. It would also help to boost some sales within the other city types.
