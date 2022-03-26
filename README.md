@@ -13,5 +13,6 @@
 ![drivers_per_city](https://github.com/allisonorourke-ufGfGy/PyBer_Analysis/blob/main/Images/percent%20drivers%20by%20city.png)
 #### We then also looked to see what the percentage of total fares were comprised up by different citites. As similar to before Urban led with 62.&% of the total fares. Suburban followed with 30.5% and rural was the least amount with 6.8%
 ![fares_per_city](https://github.com/allisonorourke-ufGfGy/PyBer_Analysis/blob/main/Images/percent%20of%20total%20fares%20by%20city.png)
-
+#### The following graph shows the total fare by city type over the span of a couple of months. 
+![fare over time](https://github.com/allisonorourke-ufGfGy/PyBer_Analysis/blob/main/Images/Challenge%20Graph.png)
 ## Analysis
